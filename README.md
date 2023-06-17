@@ -1,4 +1,4 @@
-### Hi there 👋
+**Hi there** 👋
 
 ## Introduction
 My name is Johnny Avila! Welcome to my Github page:
