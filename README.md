@@ -8,7 +8,7 @@ My name is Johnny Avila! Welcome to my Github page:
 - 😄 Pronouns: he/him
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,py,react,redux,nodejs,flask,sequelize,sqlite,firebase,nextjs,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,nextjs,tailwind,react,redux,nodejs,flask,sequelize,sqlite,firebase,html,css)](https://skillicons.dev)
 
 
 
