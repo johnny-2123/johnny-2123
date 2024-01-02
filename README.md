@@ -3,7 +3,7 @@
 ## Introduction
 My name is Johnny Avila! Welcome to my Github page:
 
-- 🔭 I’m currently learning Next.js 14, Prisma, and NextAuth by working on [*(In Progress)* AI Tools for Content Creators](https://aitoolaggregator-johnny-2123.vercel.app/)
+- 🔭 I’m currently developing with Next.js 14, Prisma, and NextAuth by working on [Interview Igniter](https://www.interviewigniter.com/)
 - 📫 How to reach me: avila.johnny11@gmail.com
 - 😄 Pronouns: he/him
 
