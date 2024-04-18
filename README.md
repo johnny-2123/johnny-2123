@@ -11,12 +11,6 @@ My name is Johnny Avila! Welcome to my Github page:
 [![My Skills](https://skillicons.dev/icons?i=js,py,nextjs,tailwind,react,redux,nodejs,postgres,flask,sequelize,sqlite,firebase,html,css)](https://skillicons.dev)
 
 
-
-![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnny-2123&show_icons=true&bg_color=00000000)
-
-
-
-
 <!---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnny-2123)](https://github.com/anuraghazra/github-readme-stats)
