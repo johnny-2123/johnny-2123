@@ -12,6 +12,10 @@ My name is Johnny Avila! Welcome to my Github page:
 
 
 
+![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnny-2123&show_icons=true&bg_color=00000000)
+
+
+
 
 <!---
 
